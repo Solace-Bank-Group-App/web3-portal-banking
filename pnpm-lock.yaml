@@ -12,7 +12,7 @@ importers:
         specifier: ^18.3.1
         version: 18.3.1
       react-dom:
-        specifier: '18'
+        specifier: ^18.3.1
         version: 18.3.1(react@18.3.1)
       thirdweb:
         specifier: 5.86.3
@@ -119,7 +119,7 @@ packages:
     resolution: {integrity: sha512-3vLclRofFziIa3J2wDh9jjbkUz9qk5Vi3IZ/FSTKViB0k+ef0fPV7dYrUIugbgupYDx7v9ud/SjrtEP8Y4xLoA==}
 
   '@emotion/weak-memoize@0.4.0':
-    resolution: {integrity: sha512-snKqtPW01tN0ui7yu9rGv69aJXr/a/Ywvl11sUjNtEcRc+ng/mQriFL0LXMef74iHa/EkftbDzU9F8iFbH+zg==}
+    resolution: {integrity: sha512-snKqtPW01tN0ui7yu9rGv69aJXr/a/Ywvl11sUjNtEcRc+ng/mQriFL0wLXMef74iHa/EkftbDzU9F8iFbH+zg==}
 
   '@ethersproject/abstract-provider@5.7.0':
     resolution: {integrity: sha512-R41c9UkchKCpAqStMYUpdunjo3pkEvZC3FAwZn5S5MGbXoMQOHIdHItezTETxAO5bevtMApSyEhn9+CHcDsWBw==}
@@ -709,7 +709,7 @@ packages:
     engines: {node: '>= 8'}
 
   aria-hidden@1.2.4:
-    resolution: {integrity: sha512-y+CcFFwelSXpLZk/7fMB2mUbGtX9LKycf1MWJ7CaTIERyitVlyQx6C+sxcROU2BAJ24OiZyK+8wj2i8AlBoS3A==}
+    resolution: {integrity: sha512-y+CcFFwelSXpLZk/7fMB2mUbGtX9lKycf1MWJ7CaTIERyitVlyQx6C+sxcROU2BAJ24OiZyK+8wj2i8AlBoS3A==}
     engines: {node: '>=10'}
 
   atomic-sleep@1.0.0:
