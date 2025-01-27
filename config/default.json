@@ -1,0 +1,13 @@
+{
+  "database": {
+    "host": "localhost",
+    "port": 5432,
+    "username": "user",
+    "password": "password",
+    "database": "default-db"
+  },
+  "server": {
+    "port": 3000,
+    "logLevel": "info"
+  }
+}

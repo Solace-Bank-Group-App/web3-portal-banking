@@ -1,0 +1,13 @@
+{
+  "database": {
+    "host": "prod-db-host",
+    "port": 5432,
+    "username": "prod-user",
+    "password": "prod-password",
+    "database": "prod-db"
+  },
+  "server": {
+    "port": 8080,
+    "logLevel": "error"
+  }
+}

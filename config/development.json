@@ -1,0 +1,13 @@
+{
+  "database": {
+    "host": "dev-db-host",
+    "port": 5432,
+    "username": "dev-user",
+    "password": "dev-password",
+    "database": "dev-db"
+  },
+  "server": {
+    "port": 3000,
+    "logLevel": "debug"
+  }
+}
